@@ -1,0 +1,68 @@
+{
+	"global": {
+			"player_name":"You"
+		},
+	"ability": {
+			
+		},
+	"about": {
+			"title_text":"ABOUT TOBEARI",
+			"description_text":"A game where your creature has to survive in a harsh and dangerous desert.\nThe current graphics and sounds are temporary, a complete overhaul is coming later.\nTechnology: HTML5 / Phaser\nDeveloped by Universio.",
+			"version_text":"Version"
+		},
+	"artificialintelligence": {
+			
+		},
+	"gameinterface": {
+			"dialog_restart":"Restart?",
+			"dialog_quit":"Leave?"
+		},
+	"gamemanager": {
+			"score":"Your Score : ",
+			"objective_text":"SURVIVE!",
+			"endgame_text":"GAME\nOVER...",
+			"bestscore_text":"Best Score!"
+		},
+	"gamestateinterface": {
+			"score":"Score: ",
+			"health":"Health: ",
+			"hydration":"Hydration: ",
+			"hunger":"Hunger: ",
+			"energy":"Energy: ",
+			"seeds":"Seeds: ",
+			"percent":"%"
+		},
+	"level": {
+			
+		},
+	"loadingscreen": {
+			"title":"Loading..."
+		},
+	"menu": {
+			
+		},
+	"menuinterface": {
+			"gamename":"TOBEARI",
+			"play":"PLAY",
+			"scores":"SCORES",
+			"about":"ABOUT"
+		},
+	"plant": {
+			
+		},
+	"predator": {
+			
+		},
+	"prey": {
+			
+		},
+	"scores": {
+			"title_text":"SCORES",
+			"tab_headings": [ "Ranking", "Points", "Player", "Date"],
+			"tab_list_empty": "None",
+			"reset": "Reset"
+		},
+	"sightfog": {
+			
+		}
+}

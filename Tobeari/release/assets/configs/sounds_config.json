@@ -1,0 +1,36 @@
+{"global":[
+	{"key":"ambiance_desert", "volume":0.08, "loop":true},
+	{"key":"menu_selection", "volume":1}
+	],
+"predator":[
+	{"key":"tongue_launch", "volume":1.8},
+	{"key":"drop_inwater", "volume":2},
+	{"key":"swallowing_water", "volume":1, "loop":true},
+	{"key":"tongue_stick", "volume":2},
+	{"key":"water_drop", "volume":0.3},
+	{"key":"spit", "volume":5},
+	{"key":"dirt_hit", "volume":5},
+	{"key":"water_throw", "volume":0.7},
+	{"key":"monster_bite", "volume":0.2},
+	{"key":"predator_pain", "volume":1},
+	{"key":"seed_gained", "volume":0.7},
+	{"key":"death", "volume":0.7}
+	],
+"prey":[
+	{"key":"creature_walk", "volume":1, "loop":true},
+	{"key":"creature_sprint", "volume":1, "loop":true},
+	{"key":"eat_plant", "volume":1, "loop":true},
+	{"key":"prey_scared", "volume":0.7}
+	],
+"plant":[
+	{"key":"plant_growing", "volume":1}
+	],
+"level":[
+	{"key":"select_entity", "volume":0.7},
+	{"key":"startgame", "volume":3}
+	],
+"gamemanager":[
+	{"key":"endgame", "volume":0.3},
+	{"key":"endgame_bestscore", "volume":0.3}
+	]
+}

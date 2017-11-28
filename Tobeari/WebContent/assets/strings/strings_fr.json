@@ -1,0 +1,68 @@
+{
+	"global": {
+			"player_name":"Vous"
+		},
+	"ability": {
+			
+		},
+	"about": {
+			"title_text":"À PROPOS DE TOBEARI",
+			"description_text":"Un jeu où votre créature doit survivre dans un désert rude et dangereux.\nLes graphiques et sons actuels sont temporaires, une refonte complète est à venir plus tard.\nTechnologie : HTML5 / Phaser\nFait par Universio.",
+			"version_text":"Version"
+		},
+	"artificialintelligence": {
+			
+		},
+	"gameinterface": {
+			"dialog_restart":"Redémarrer ?",
+			"dialog_quit":"Quitter ?"
+		},
+	"gamemanager": {
+			"score":"Votre Score : ",
+			"objective_text":"Survis !",
+			"endgame_text":"PARTIE\nTERMINÉE…",
+			"bestscore_text":"Meilleur score !"
+		},
+	"gamestateinterface": {
+			"score":"Score : ",
+			"health":"Vie : ",
+			"hydration":"Hydratation : ",
+			"hunger":"Faim : ",
+			"energy":"Énergie : ",
+			"seeds":"Graines : ",
+			"percent":"%"
+		},
+	"level": {
+			
+		},
+	"loadingscreen": {
+			"title":"Chargement..."
+		},
+	"menu": {
+			
+		},
+	"menuinterface": {
+			"gamename":"TOBEARI",
+			"play":"JOUER",
+			"scores":"SCORES",
+			"about":"À PROPOS"
+		},
+	"plant": {
+			
+		},
+	"predator": {
+			
+		},
+	"prey": {
+			
+		},
+	"scores": {
+			"title_text":"SCORES",
+			"tab_headings": [ "Rang", "Points", "Joueur", "Date"],
+			"tab_list_empty": "Aucun",
+			"reset": "Effacer"
+		},
+	"sightfog": {
+			
+		}
+}

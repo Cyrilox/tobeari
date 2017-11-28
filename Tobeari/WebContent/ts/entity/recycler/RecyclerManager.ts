@@ -1,0 +1,9 @@
+/**
+ * RecyclerManager
+ */
+class RecyclerManager {
+
+    constructor() {
+        
+    }
+}

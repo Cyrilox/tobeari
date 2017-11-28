@@ -1,0 +1,249 @@
+{
+  "frames": {
+    "button_restart": {
+      "spriteSourceSize": {
+        "w": 202,
+        "x": 0,
+        "h": 202,
+        "y": 0
+      },
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 202,
+        "h": 202
+      },
+      "frame": {
+        "w": 202,
+        "x": 1416,
+        "h": 202,
+        "y": 98
+      }
+    },
+    "palmtree": {
+      "spriteSourceSize": {
+        "w": 519,
+        "x": 0,
+        "h": 519,
+        "y": 0
+      },
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 519,
+        "h": 519
+      },
+      "frame": {
+        "w": 519,
+        "x": 892,
+        "h": 519,
+        "y": 739
+      }
+    },
+    "button_menu": {
+      "spriteSourceSize": {
+        "w": 202,
+        "x": 0,
+        "h": 202,
+        "y": 0
+      },
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 202,
+        "h": 202
+      },
+      "frame": {
+        "w": 202,
+        "x": 1413,
+        "h": 202,
+        "y": 852
+      }
+    },
+    "waterhole": {
+      "spriteSourceSize": {
+        "w": 346,
+        "x": 0,
+        "h": 346,
+        "y": 0
+      },
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 346,
+        "h": 346
+      },
+      "frame": {
+        "w": 346,
+        "x": 1240,
+        "h": 346,
+        "y": 302
+      }
+    },
+    "seed_green": {
+      "spriteSourceSize": {
+        "w": 87,
+        "x": 0,
+        "h": 87,
+        "y": 0
+      },
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 87,
+        "h": 87
+      },
+      "frame": {
+        "w": 87,
+        "x": 1413,
+        "h": 87,
+        "y": 763
+      }
+    },
+    "tongue": {
+      "spriteSourceSize": {
+        "w": 747,
+        "x": 0,
+        "h": 87,
+        "y": 0
+      },
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 747,
+        "h": 87
+      },
+      "frame": {
+        "w": 747,
+        "x": 892,
+        "h": 87,
+        "y": 650
+      }
+    },
+    "predator_dead": {
+      "spriteSourceSize": {
+        "w": 346,
+        "x": 0,
+        "h": 346,
+        "y": 0
+      },
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 346,
+        "h": 346
+      },
+      "frame": {
+        "w": 346,
+        "x": 892,
+        "h": 346,
+        "y": 302
+      }
+    },
+    "button_back": {
+      "spriteSourceSize": {
+        "w": 202,
+        "x": 0,
+        "h": 202,
+        "y": 0
+      },
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 202,
+        "h": 202
+      },
+      "frame": {
+        "w": 202,
+        "x": 1413,
+        "h": 202,
+        "y": 1056
+      }
+    },
+    "menu_image": {
+      "spriteSourceSize": {
+        "w": 888,
+        "x": 0,
+        "h": 1196,
+        "y": 0
+      },
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 888,
+        "h": 1196
+      },
+      "frame": {
+        "w": 888,
+        "x": 2,
+        "h": 1196,
+        "y": 62
+      }
+    },
+    "waterjet": {
+      "spriteSourceSize": {
+        "w": 144,
+        "x": 0,
+        "h": 58,
+        "y": 0
+      },
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 144,
+        "h": 58
+      },
+      "frame": {
+        "w": 144,
+        "x": 2,
+        "h": 58,
+        "y": 2
+      }
+    },
+    "button_no": {
+      "spriteSourceSize": {
+        "w": 260,
+        "x": 0,
+        "h": 260,
+        "y": 0
+      },
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 260,
+        "h": 260
+      },
+      "frame": {
+        "w": 260,
+        "x": 892,
+        "h": 260,
+        "y": 40
+      }
+    },
+    "button_yes": {
+      "spriteSourceSize": {
+        "w": 260,
+        "x": 0,
+        "h": 260,
+        "y": 0
+      },
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 260,
+        "h": 260
+      },
+      "frame": {
+        "w": 260,
+        "x": 1154,
+        "h": 260,
+        "y": 40
+      }
+    }
+  },
+  "meta": {
+    "app": "Phaser Editor",
+    "image": "images-atlas.png",
+    "version": "1"
+  }
+}

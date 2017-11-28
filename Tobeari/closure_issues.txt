@@ -1,0 +1,51 @@
+******************
+* CLOSURE ISSUES *
+******************
+
+Voici ici des problèmes rencontrés dans la compilation Google Closure en mode Avancée.
+
+1) Fichiers JSON
+Les objets chargés depuis un fichier JSON ne peuvent pas être appelée avec la notation "."
+Incorrecte : monJSON.monNoeud.maVar
+Problème : "aa.sd.sd not found"
+Explication : renommage de noms externes
+
+Solution > utilisé la syntaxe en tableau :
+monJSON["monNoeud"]["maVar"]
+
+2) Propriété Get/Set générées par TypeScript
+Les Get Set ne fonctionne pas
+Incorrecte : get maVar	set maVar
+Problème : ne fait rien
+Explication : 
+
+Solution > crée manuellement des getters et setters
+
+3) Enumération générées par TypeScript 
+Une énumeration n'est pas trouvable en y accédant
+Incorrecte : MonEnum.Enum
+Problème : aF["Enum"]
+Explication : les variables sont renommées, sauf dans leurs déclarations (aF["Enum"])
+
+Solution > accéder aux énumérations par tableau et non pas "." :
+MonEnum["Enum"]
+
+
+
+
+) 
+
+Incorrecte : 
+Problème : 
+Explication : 
+
+Solution > 
+
+) 
+
+Incorrecte : 
+Problème : 
+Explication : 
+
+Solution > 
+

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tobeari</title>
+	<link rel="icon" type="image/png" href="favicon.png"/>
+	<style>
+		html, body{
+			margin: 0;
+			padding: 0;
+			background-color: black;
+		}
+	</style>
+</head>
+<body>
+	<script src="lib/phaser.js"></script>
+    <script src="lib/phaser_inspector.js"></script>
+    <script src="lib/FastPriorityQueue.js"></script>
+<!-- flag_delete_start -->
+	<!-- Ne pas oublier d'inscrire l'ordre dans le fichier de fusion et compilation "create_release.py" -->
+	
+	<!-- Démarrage -->
+    <script src="js/Main.js"></script>
+    <script src="js/state/Boot.js"></script>
+    <script src="js/ui/LoadingScreen.js"></script>
+	
+	<!-- Dépendances -->
+    <script src="js/entity/ability/Ability.js"></script>
+    <script src="js/ui/GraphicInterface.js"></script>
+    <script src="js/entity/Entity.js"></script>
+	
+	<!-- Autres -->	
+    <script src="js/Controller.js"></script>
+    <script src="js/GameManager.js"></script>
+	
+    <script src="js/entity/consumer/ConsumerManager.js"></script>
+    <script src="js/entity/consumer/Predator.js"></script>
+    <script src="js/entity/consumer/Prey.js"></script>
+    <script src="js/entity/consumer/ai/ArtificialIintelligence.js"></script>
+    <script src="js/entity/consumer/organ/Sightfog.js"></script>
+	
+    <script src="js/entity/grower/GrowerManager.js"></script>
+    <script src="js/entity/grower/Palmtree.js"></script>
+    <script src="js/entity/grower/Plant.js"></script>
+	
+    <script src="js/entity/inert/InertManager.js"></script>
+    <script src="js/entity/inert/Waterpoint.js"></script>
+	
+    <script src="js/entity/recycler/RecyclerManager.js"></script>
+	
+	<script src="js/map/Cell.js"></script>
+	<script src="js/map/CellCoordinates.js"></script>	
+	<script src="js/map/Map.js"></script>
+	
+	<script src="js/map/grid/GridTools.js"></script>
+	<script src="js/map/grid/Hex.js"></script>
+	<script src="js/map/grid/Layout.js"></script>
+	<script src="js/map/grid/Orientation.js"></script>
+	<script src="js/map/grid/Point.js"></script>
+	
+    <script src="js/map/pathfinding/Astar.js"></script>
+    <script src="js/map/pathfinding/NetLink.js"></script>
+    <script src="js/map/pathfinding/NetNode.js"></script>
+    <script src="js/map/pathfinding/NodeNetwork.js"></script>
+    <script src="js/map/pathfinding/Pathfinder.js"></script>
+	
+	<script src="js/score/ScoreData.js"></script>
+	<script src="js/score/ScoresDatas.js"></script>
+		
+    <script src="js/sound/SoundManager.js"></script>
+	
+    <script src="js/state/About.js"></script>
+    <script src="js/state/Level.js"></script>
+    <script src="js/state/Menu.js"></script>
+    <script src="js/state/Preload.js"></script>
+    <script src="js/state/Scores.js"></script>
+    <script src="js/state/Test.js"></script>
+	
+    <script src="js/ui/Button.js"></script>
+    <script src="js/ui/CommandInterface.js"></script>
+    <script src="js/ui/GameInterface.js"></script>
+    <script src="js/ui/GameStateInformation.js"></script>
+    <script src="js/ui/GameStateInterface.js"></script>
+    <script src="js/ui/GestureManager.js"></script>
+    <script src="js/ui/MenuInterface.js"></script>
+    <script src="js/ui/OptionDialog.js"></script>
+	
+    <script src="js/util/Debug.js"></script>
+    <script src="js/util/GeometryTools.js"></script>
+    <script src="js/util/Tools.js"></script>
+<!-- flag_delete_end -->
+	<!-- flag_uncomment_debut<script src="all.js"></script>flag_uncomment_fin-->
+</body>
+</html>

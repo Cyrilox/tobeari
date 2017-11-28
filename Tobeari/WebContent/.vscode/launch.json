@@ -1,0 +1,13 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "Launch localhost with sourcemaps",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost/Tobeari/WebContent/index.html",
+            "webRoot": "${workspaceRoot}/",
+            "sourceMaps": false
+        }
+    ]
+}
