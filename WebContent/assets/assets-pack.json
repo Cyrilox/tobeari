@@ -1,0 +1,348 @@
+{
+    "level": [
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "tongue",
+            "url": "assets/images/tongue.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "button_menu",
+            "url": "assets/images/button_menu.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "palmtree",
+            "url": "assets/images/palmtree.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "waterhole",
+            "url": "assets/images/waterhole.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "button_restart",
+            "url": "assets/images/button_restart.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "seed_green",
+            "url": "assets/images/seed_green.png"
+        },
+        {
+            "frameHeight": 31,
+            "margin": 0,
+            "frameWidth": 31,
+            "spacing": 0,
+            "frameMax": 5,
+            "type": "spritesheet",
+            "key": "plant_green",
+            "url": "assets/images/plant_green.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "tongue_tip",
+            "url": "assets/images/tongue_tip.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "waterjet",
+            "url": "assets/images/waterjet.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "predator_dead",
+            "url": "assets/images/predator_dead.png"
+        },
+        {
+            "frameHeight": 89,
+            "margin": 0,
+            "frameWidth": 89,
+            "spacing": 0,
+            "frameMax": 6,
+            "type": "spritesheet",
+            "key": "predator",
+            "url": "assets/images/predator.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "plant_green_greyscale",
+            "url": "assets/images/plant_green_greyscale.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "button_roar",
+            "url": "assets/images/button_roar.png"
+        },
+        {
+            "frameHeight": 85,
+            "margin": 0,
+            "frameWidth": 85,
+            "spacing": 0,
+            "frameMax": 2,
+            "type": "spritesheet",
+            "key": "button_swallow",
+            "url": "assets/images/button_swallow.png"
+        },
+        {
+            "frameHeight": 85,
+            "margin": 0,
+            "frameWidth": 85,
+            "spacing": 0,
+            "frameMax": 2,
+            "type": "spritesheet",
+            "key": "button_watering",
+            "url": "assets/images/button_watering.png"
+        },
+        {
+            "frameHeight": 85,
+            "margin": 0,
+            "frameWidth": 85,
+            "spacing": 0,
+            "frameMax": 2,
+            "type": "spritesheet",
+            "key": "button_plant",
+            "url": "assets/images/button_plant.png"
+        },
+        {
+            "urls": ["assets/sounds/creature_sprint.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "creature_sprint"
+        },
+        {
+            "urls": ["assets/sounds/creature_walk.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "creature_walk"
+        },
+        {
+            "urls": ["assets/sounds/dirt_hit.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "dirt_hit"
+        },
+        {
+            "urls": ["assets/sounds/drop_inwater.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "drop_inwater"
+        },
+        {
+            "urls": ["assets/sounds/eat_plant.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "eat_plant"
+        },
+        {
+            "urls": ["assets/sounds/endgame.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "endgame"
+        },
+        {
+            "urls": ["assets/sounds/endgame_bestscore.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "endgame_bestscore"
+        },
+        {
+            "urls": ["assets/sounds/monster_bite.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "monster_bite"
+        },
+        {
+            "urls": ["assets/sounds/plant_growing.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "plant_growing"
+        },
+        {
+            "urls": ["assets/sounds/predator_pain.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "predator_pain"
+        },
+        {
+            "urls": ["assets/sounds/prey_scared.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "prey_scared"
+        },
+        {
+            "urls": ["assets/sounds/seed_gained.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "seed_gained"
+        },
+        {
+            "urls": ["assets/sounds/select_entity.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "select_entity"
+        },
+        {
+            "urls": ["assets/sounds/spit.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "spit"
+        },
+        {
+            "urls": ["assets/sounds/startgame.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "startgame"
+        },
+        {
+            "urls": ["assets/sounds/swallowing_water.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "swallowing_water"
+        },
+        {
+            "urls": ["assets/sounds/tongue_launch.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "tongue_launch"
+        },
+        {
+            "urls": ["assets/sounds/tongue_stick.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "tongue_stick"
+        },
+        {
+            "urls": ["assets/sounds/water_drop.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "water_drop"
+        },
+        {
+            "urls": ["assets/sounds/water_throw.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "water_throw"
+        },
+        {
+            "frameHeight": 28,
+            "margin": 0,
+            "frameWidth": 28,
+            "spacing": 0,
+            "frameMax": 10,
+            "type": "spritesheet",
+            "key": "prey",
+            "url": "assets/images/prey.png"
+        },
+        {
+            "urls": ["assets/sounds/death.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "death"
+        }
+    ],
+    "scores": [{
+        "type": "image",
+        "overwrite": false,
+        "key": "button_reset",
+        "url": "assets/images/button_reset.png"
+    }],
+    "meta": {
+        "app": "Phaser Editor",
+        "copyright": "Arian Fornaris (boniatillo.com) 2015",
+        "generated": "1467117663334",
+        "version": "1.0",
+        "url": "http://boniatillo.com"
+    },
+    "about": [],
+    "global": [
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "button_no",
+            "url": "assets/images/button_no.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "button_yes",
+            "url": "assets/images/button_yes.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "button_back",
+            "url": "assets/images/button_back.png"
+        },
+        {
+            "type": "json",
+            "overwrite": false,
+            "key": "config_normal",
+            "url": "assets/configs/config_normal.json"
+        },
+        {
+            "type": "json",
+            "overwrite": false,
+            "key": "config_test",
+            "url": "assets/configs/config_test.json"
+        },
+        {
+            "urls": ["assets/sounds/menu_selection.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "menu_selection"
+        }
+    ],
+    "menu": [
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "button_play",
+            "url": "assets/images/button_play.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "button_about",
+            "url": "assets/images/button_about.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "button_scores",
+            "url": "assets/images/button_scores.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "menu_image",
+            "url": "assets/images/menu_image.png"
+        }
+    ],
+    "preload": [
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "loading",
+            "url": "assets/images/loading.png"
+        },
+        {
+            "urls": ["assets/sounds/ambiance_desert.ogg"],
+            "autoDecode": true,
+            "type": "audio",
+            "key": "ambiance_desert"
+        }
+    ]
+}
